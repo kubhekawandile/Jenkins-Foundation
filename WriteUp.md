@@ -50,6 +50,10 @@ safe-restart
 ```
 ## Evidence:
 
+![ssh](Evidence/ssh-1.png)
+![ssh](Evidence/ssh-2.png)
+![ssh](Evidence/ssh-3.png)
+
 ---
 
 ## 4️ ThinBackup Plugin – Backup & Restore
@@ -58,6 +62,10 @@ safe-restart
 - Backed up all Jenkins configurations and successfully restored them.
 
 ## Evidence:
+![backup](Evidence/backup-1.png)
+![backup](Evidence/backup-2.png)
+![backup](Evidence/backup-3.png)
+![backup](Evidence/backup-4.png)
 
 ---
 
@@ -66,6 +74,12 @@ safe-restart
 Built and configured a CD pipeline to automate build, test, and deployment.
 
 ## Evidence:
+![pipeline](Evidence/pipeline-1.png)
+![pipeline](Evidence/pipeline-2.png)
+![pipeline](Evidence/pipeline-3.png)
+![pipeline](Evidence/pipeline-4.png)
+![pipeline](Evidence/pipeline-5.png)
+![pipeline](Evidence/pipeline-6.png)
 
 # GRC Key Takeaways
 
