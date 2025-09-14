@@ -93,3 +93,12 @@ From a Governance, Risk & Compliance perspective, the following controls are ess
 - **Credential Management** – Periodically review and rotate stored secrets/credentials to minimize risk.  
 - **System Hardening** – Restrict who can install plugins or change system settings to reduce the attack surface.
 
+# Lessons Learned
+ 
+- Working through the Jenkins Foundations labs showed me that mastering the tool is only half the story—understanding its security and governance requirements is just as critical.
+- I learned how routine tasks like installing plugins, configuring pipelines, and managing credentials directly affect an organization’s risk posture.
+- Regular access-control reviews, disciplined plugin patching, reliable backup and recovery procedures, and secure pipeline configuration all help maintain compliance and reduce vulnerabilities.
+- I also recognized the value of integrating Jenkins with monitoring and SIEM tools to detect suspicious activity early.
+- Lessons Learned
+Working through the Jenkins Foundations labs showed me that mastering the tool is only half the story—understanding its security and governance requirements is just as critical. I learned how routine tasks like installing plugins, configuring pipelines, and managing credentials directly affect an organization’s risk posture. Regular access-control reviews, disciplined plugin patching, reliable backup and recovery procedures, and secure pipeline configuration all help maintain compliance and reduce vulnerabilities. I also recognized the value of integrating Jenkins with monitoring and SIEM tools to detect suspicious activity early. This project reinforced that technical skills and a strong GRC mindset must work hand-in-hand to build resilient, audit-ready automation environments.This project reinforced that technical skills and a strong GRC mindset must work hand-in-hand to build resilient, audit-ready automation environments. 
+
